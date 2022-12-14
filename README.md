@@ -1,4 +1,4 @@
 # github-jira-integration
 Jira GitHub integration Pilot
 
-Make readme prettier commit.
+Make readme prettier commit
